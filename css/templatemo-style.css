@@ -34,11 +34,13 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	color: #06C;
 }
 
+.orange {
+    color: #ec971f;
+}
+
 .green {
 	color: #090;
 }
-
-.red
 
 main {
   display: block;
@@ -416,7 +418,7 @@ h3.profile-title {
 -------------------------------------------------------- */
 /*------ banner ------ */
 .banner-bg {
-  padding: 200px 80px;
+  padding: 150px 80px;
   position: relative;
   background: url("../img/blackbanner.jpg");
   background-repeat: no-repeat;
