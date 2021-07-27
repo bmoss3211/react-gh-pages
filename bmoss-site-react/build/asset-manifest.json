@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bmoss3211.github.io/static/css/main.8ce0bae5.chunk.css",
+    "main.js": "/bmoss3211.github.io/static/js/main.89ded41a.chunk.js",
+    "main.js.map": "/bmoss3211.github.io/static/js/main.89ded41a.chunk.js.map",
+    "runtime-main.js": "/bmoss3211.github.io/static/js/runtime-main.9c59ad0a.js",
+    "runtime-main.js.map": "/bmoss3211.github.io/static/js/runtime-main.9c59ad0a.js.map",
+    "static/css/2.bb5bc79c.chunk.css": "/bmoss3211.github.io/static/css/2.bb5bc79c.chunk.css",
+    "static/js/2.6c4ba2b2.chunk.js": "/bmoss3211.github.io/static/js/2.6c4ba2b2.chunk.js",
+    "static/js/2.6c4ba2b2.chunk.js.map": "/bmoss3211.github.io/static/js/2.6c4ba2b2.chunk.js.map",
+    "index.html": "/bmoss3211.github.io/index.html",
+    "static/css/2.bb5bc79c.chunk.css.map": "/bmoss3211.github.io/static/css/2.bb5bc79c.chunk.css.map",
+    "static/css/main.8ce0bae5.chunk.css.map": "/bmoss3211.github.io/static/css/main.8ce0bae5.chunk.css.map",
+    "static/js/2.6c4ba2b2.chunk.js.LICENSE.txt": "/bmoss3211.github.io/static/js/2.6c4ba2b2.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/bmoss3211.github.io/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c59ad0a.js",
+    "static/css/2.bb5bc79c.chunk.css",
+    "static/js/2.6c4ba2b2.chunk.js",
+    "static/css/main.8ce0bae5.chunk.css",
+    "static/js/main.89ded41a.chunk.js"
+  ]
+}
