@@ -1,7 +1,7 @@
 {
+  "homepage": "http://bmoss3211.github.io/",
   "name": "react-gh-pages",
   "version": "4.0.0",
-  "homepage": "http://bmoss3211.github.io/react-gh-pages",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
